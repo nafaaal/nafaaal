@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm Nafaal  ![Profile views](https://gpvc.arturio.dev/nafaaal)
 
-I'm currently an undergraduate student at the University of Bristol studying Computer Science. Even though I'm eager to learn anything there is to know about computer science, I'm particularly interested in learning more about cyber security as of right now.
+- I'm currently an undergraduate student at the University of Bristol studying Computer Science. 
+- I'm particularly interested in the field of cyber security.
+- My first programming language was not Python, Java or even C. It was QBasic 🥲
+- And No, I dont know how to fix your printer. 
 
 
 
