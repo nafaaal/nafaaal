@@ -7,6 +7,7 @@ I'm currently an undergraduate student at the University of Bristol studying Com
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafaaal&show_icons=true&theme=github_dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nafaaal&background=0d1116&stroke=58a5fe&ring=58a5fe&currStreakNum=58a5fe&sideNums=58a5fe&fire=58a5fe&currStreakLabel=58a5fe&sideLabels=58a5fe&dates=c3d0d8)](https://git.io/streak-stats)
 
 <!---
